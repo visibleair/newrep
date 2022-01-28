@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/background"/>
+    <item
+        android:drawable="@drawable/worldcinema"
+        android:gravity="center"
+        android:bottom="223dp"
+        android:width="281.58dp"
+        android:height="31.24dp"/>
+    <item android:drawable="@drawable/videocam"
+        android:gravity="center"
+        android:width="164.16dp"
+        android:height="164.16dp"
+        android:top="27.35dp"/>
+</layer-list>
